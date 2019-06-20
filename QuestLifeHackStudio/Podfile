@@ -1,0 +1,7 @@
+use_frameworks!
+
+target 'QuestLifeHackStudio' do
+
+	pod 'Alamofire'
+
+end
